@@ -1,4 +1,5 @@
-# IUCN Interactive Storytelling Visualisation
+# Animals: The Extinction Series
+
 Information Visualization Project on Declining Animal Species
 An interactive scrollytelling visualisation built in D3.js to increase the awareness of threatened animal species.
 
