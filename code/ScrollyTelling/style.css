@@ -1,0 +1,507 @@
+/*
+ * File: style.css
+ * Project: ScrollyTelling
+ * File Created: November 2019
+ * Author: Shalini Chaudhuri (you@you.you)
+ */
+
+ /* -webkit-animation: fadein 0.5s; /* Safari, Chrome and Opera > 12.1 
+ -moz-animation: fadein 0.5s; /* Firefox < 16 
+  -ms-animation: fadein 0.5s; /* Internet Explorer 
+   -o-animation: fadein 0.5s; /* Opera < 12.1 
+      animation: fadein 0.5s; */
+
+
+/*
+* container override
+*/
+
+.container {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.animalimage {
+    background-image: url('./images/elephant.jpg');
+    background-repeat:no-repeat;
+    background-size:contain;
+    /* position: absolute; */
+    opacity: 0.4;
+    margin-top: 6rem;
+    height: 40rem;
+    width: 50rem;
+    margin-left: 42%;
+}
+
+.textintro {
+  padding-left: 40%; 
+  font-size: 3em ;
+  font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.prob_introduction {
+  padding: 2rem;
+  padding-top: 0;
+  color: white;
+  font-style: bold;
+  font-weight: 3em;
+  height: 40rem;
+  width: 70rem;
+  display: none;
+  background-image: url("./project-pictures/eleintro.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: calc(100vw - 14px);
+  height: calc(100vh);
+
+  /* height: 40rem; */
+}
+
+.intro-image {
+  background-image: url("./project-pictures/titleimg.png");
+  width: 70rem;
+  height: 53rem;
+  width: calc(100vw - 14px);
+  background-size: cover;
+  margin-top: 30px;
+}
+
+.map-infographic {
+  /* width: 30rem;
+  height: 33em; */
+  width: fit-content;
+  height: fit-content;
+  background-image: url("./project-pictures/map-infographic.PNG");
+  background-size: cover;
+  box-shadow: 0 10px 6px -6px lightblue;
+  border: 2px solid lightblue;
+}
+
+.map-infographic img{
+  height: 20rem;
+  width: auto;
+}
+
+.stacked-info {
+  width: 33rem;
+  height: 20em;
+  background-image: url("./project-pictures/stackedplot-infographic.PNG");
+  background-size: cover;
+}
+.graph1-image {
+  color: red;
+  /* width: 47rem; */
+  width: fit-content;
+  height: fit-content;
+  /* height: 25em; */
+  background-image: url("./project-pictures/graph1-title.png");
+  background-size: cover;
+}
+
+.infographic2 {
+  /* width: 47rem; */
+  width: fit-content;
+  height: fit-content;
+  /* height: 33em; */
+  background-image: url("./project-pictures/title2amphi.png");
+  background-size: cover;
+}
+.graph1-image img, .infographic2 img{
+  height: 100%;
+  width: 100%;
+}
+
+.stacked{
+  width: fit-content;
+  height: fit-content;
+}
+.imgclass {
+
+  height: 100%;
+  width: 100%;
+}
+
+
+.turtle-image-box {
+  background-image: url("./project-pictures/turtle-plastic.jpg");
+  background-size: cover;
+  color : white ;
+  font-weight: bold;
+  width: 70rem;
+  height: 30rem;
+  width: calc(100vw - 14px);
+  height: calc(100vh);
+  background-size: cover;
+  
+}
+.prob_introduction p {
+  display: inherit;
+  font-family: Tahoma, sans-serif;
+  font-size: 1rem;
+}
+.industrialization {
+  background-image: url("./project-pictures/industrialization2.jpg");
+  color : #180708 ;
+  font-weight: 20;
+  width: 70rem;
+  height: 40rem;
+  width: calc(100vw - 14px);
+  height: calc(100vh);
+  background-size: cover;
+}
+.prob_introduction.active {
+  display: block;
+  margin-top: 25px;
+  text-align: center;
+
+   -webkit-animation: fadein 4s; 
+ -moz-animation: fadein 4s; 
+  -ms-animation: fadein 4s; 
+   -o-animation: fadein 4s; 
+      animation: fadein 4s; 
+      animation-timing-function: ease-in;
+}
+
+@keyframes fadein {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+
+/* scrollama */
+#scroll {
+    position: relative;
+}
+#scroll_first .scroll__text {
+    position: relative;
+    padding: 0 1rem;
+    margin: 0 auto;
+    margin-left: 800px;
+}
+
+
+#scroll_second .scroll__text {
+  position: relative;
+  padding: 0 1rem;
+  margin: 0 auto;
+  margin-left: 900px;
+}
+
+#scroll_third .scroll__text {
+  position: relative;
+  padding: 0 1rem;
+  margin: 0 auto;
+  margin-left: 1150px;
+}
+
+#animatedstackedplot .scroll__text {
+  position: relative;
+  padding: 0 1rem;
+  margin: 0 auto;
+  margin-left: 800px;
+}
+
+#forest_cover .scroll__text {
+  position: relative;
+  padding: 0 1rem;
+  margin: 0 auto;
+  margin-left: 900px;
+}
+
+#scroll_bubblechart .scroll__text {
+  position: relative;
+  padding: 0 1rem;
+  margin: 0 auto;
+  margin-left: 1000px;
+}
+
+#extinct_chart .scroll__text {
+  position: relative;
+  padding: 0 1rem;
+  margin: 0 auto;
+  margin-left: 1000px;
+}
+
+#actionButton a {
+}
+
+#scroll_bubblechart label {
+  margin-bottom: 0;
+}
+
+
+#scroll_second .scroll__text img{
+  width: 45rem;
+}
+
+.imgclass1 {
+  width: 45rem;
+}
+
+.step {
+    margin: 2rem auto 4rem auto;
+}
+.step.is-active {
+    /* background-color: lightgoldenrodyellow; */
+}
+.step p {
+    text-align: center;
+}
+
+.chart.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+#carouselAnimaIndicators img {
+  height: 43rem;
+}
+
+#chart1 {
+  padding-top: 5%;
+}
+
+#scroll_first {
+}
+#scroll_first .scroll__text .step{
+  width: 45rem;
+  margin-left: 10rem;
+  box-shadow: 0 10px 6px -6px white;
+  border: 2px solid white;
+}
+
+#scroll_stacked_plot .scroll__text .step{
+  width: 32rem;
+  margin-left: 20rem; box-shadow: 0 10px 6px -6px white;
+  border: 2px solid white;
+}
+
+#scroll_stacked_percent .scroll__text .step{
+  width: 32rem;
+  margin-left: 20rem; box-shadow: 0 10px 6px -6px white;
+  border: 2px solid white;
+}
+
+#forest_cover .scroll__text .step{
+  width: 32rem;
+  margin-left: 20rem; box-shadow: 0 10px 6px -6px white;
+  border: 2px solid white;
+}
+
+#animatedstackedplot .scroll__text .step{
+  width: 32rem;
+  margin-left: 20rem; box-shadow: 0 10px 6px -6px white;
+  border: 2px solid white;
+}
+
+.safe-color {
+  color: green;    font-weight: bold;
+}
+
+.neutral-color{
+  color:orange;    font-weight: bold;
+}
+
+.danger-color {
+  color:red;    font-weight: bold;
+}
+
+
+
+
+/*
+* Industrialization styling
+*/
+#industrialization path { 
+	stroke-width: 2;
+	fill: none;
+}
+
+#industrialization .line-plot path,
+#industrialization .line-plotline {
+	fill: none;
+	stroke-width: 1;
+	shape-rendering: crispEdges;
+}
+
+
+/**
+* Disintegrate
+*/
+
+  /* Generic click behavior */
+  [data-dis-type="self-contained"] {
+    border-radius: 15px;
+  }
+  [data-dis-container] {
+    animation: slideLeft60rem 10s linear paused;
+  }
+  [data-dis-type] {
+    animation: slideRight60rem 10s linear paused;
+  }
+  @keyframes slideLeft60rem {
+    100% { transform: translateX(-600rem); }
+  }
+  @keyframes slideRight60rem {
+    100% { transform: translateX(600rem); }
+  }
+
+  @keyframes slideUp60rem {
+    100% { transform: translateY(-600rem); }
+  }
+  @keyframes slideDown60rem {
+    100% { transform: translateY(60rem); }
+  }
+  /* Start the animation we add a class */
+  .animate,
+  .animate [data-dis-type] {
+    /* Start the animation */
+    animation-play-state: running !important;
+    /* Make sure it doesn't show until we want it to */
+    animation-fill-mode: forwards !important;
+  }
+  /* Coloring */
+  .grid-item:nth-of-type(1) {
+    background-color: #2980b9; 
+    background-image: linear-gradient(to left, #2980b9, #6dd5fa, #ffffff);
+  }
+  .grid-item:nth-of-type(1) button {
+    background-color: #5433ff; 
+    background-image: linear-gradient(to right, #5433ff, #20bdff, #a5fecb);
+  }
+  .grid-item:nth-of-type(2) {
+    background-color: #00b09b;
+    background-image: linear-gradient(to right, #00b09b, #96c93d);
+  }
+  .grid-item:nth-of-type(2) button {
+    background-color: #4ECDC4;  
+    background-image: linear-gradient(to right, #556270, #4ECDC4);
+  }
+  
+  .grid-item:nth-of-type(3) {
+    background-color: #8e2de2; 
+    background-image: linear-gradient(to right, #8e2de2, #4a00e0);
+  }
+  .grid-item:nth-of-type(3) button {
+    
+  }
+  
+  .grid-item:nth-of-type(4) {
+    background-color: #536976; 
+    background-image: linear-gradient(to left, #536976, #292e49);
+  }
+  .grid-item:nth-of-type(4) button {
+    background-color: #ff0099; 
+    background-image: linear-gradient(to right, #ff0099, #493240);
+  }
+  .grid-item:nth-of-type(5) {
+    background-color: #b3ffab; 
+    background: linear-gradient(to right, #b3ffab, #12fff7);
+  }
+  .grid-item:nth-of-type(5) button {
+    background-color: #005aa7; 
+    background-image: linear-gradient(to right, #005aa7, #fffde4);
+  }
+  .grid-item:nth-of-type(6) {
+    background-color: #833ab4; 
+    background-image: linear-gradient(to right, #833ab4, #fd1d1d, #fcb045);
+  }
+  .grid-item:nth-of-type(6) button {
+    background-color: #c6ffdd; 
+    background-image: linear-gradient(124deg, #ff2400, #e81d1d, #e8b71d, #e3e81d, #1de840, #1ddde8, #2b1de8, #dd00f3, #dd00f3);
+  }
+  /* Specific click effects */
+  .grid-item:nth-of-type(1) [data-dis-container] {
+    animation: slideUpLeft 0.5s ease-in paused;
+  }
+  .grid-item:nth-of-type(1) [data-dis-type] {
+    animation: slideDownRight 0.5s ease-in paused;
+    border-radius: 9999px;
+  }
+  @keyframes slideUpLeft {
+    100% { transform: translate(-135px, -50px); }
+  }
+  @keyframes slideDownRight {
+    100% { transform: translate(135px, 50px); }
+  }
+  .grid-item:nth-of-type(2) [data-dis-container] {
+    animation: slideRight500 0.8s ease-in paused;
+  }
+  .grid-item:nth-of-type(2) [data-dis-type] {
+    width: 400px;
+    height: 75px;
+    animation: slideRight650 0.8s ease-in paused;
+  }
+  @keyframes slideRight650 {
+    100% { transform: translateX(650px); }
+  }
+  .grid-item:nth-of-type(3) [data-dis-container] {
+    animation: bounce 1s ease-in-out paused;
+  }
+  .grid-item:nth-of-type(3) [data-dis-type] {
+    animation: counterBounce 1s ease-in-out paused;
+  }
+  @keyframes bounce {
+    20% { transform: translateY(-50px); }
+    100% { transform: translateY(500px); }
+  }
+  @keyframes counterBounce {
+    30% { transform: translateY(0); }
+    100% { transform: translateY(200px); }
+  }
+  .grid-item:nth-of-type(4) [data-dis-container] {
+    animation: slideRight500 1s ease-in-out paused;
+  }
+  .grid-item:nth-of-type(4) [data-dis-type] {
+    height: 135px;
+    border-radius: 35px;
+    animation: slideLeft500 1s ease-in-out paused;
+  }
+  
+  .grid-item:nth-of-type(5) [data-dis-container] {
+    animation: becomeNothing 0.1s ease-in paused;
+  }
+  .grid-item:nth-of-type(5) [data-dis-type] {
+    height: 135px;
+    background: transparent;
+    border: 2px solid #5aa9eb;
+    animation: slideUpLeft68 0.1s ease-in paused;
+  }
+  @keyframes becomeNothing {
+    0% { width: 1135px; height: 1135px; }
+    100% { width: 0; height: 0; }
+  }
+  @keyframes slideUpLeft68 {
+    100% { transform: translate(-67.5px, -67.5px); }
+  }
+  .grid-item:nth-of-type(6) [data-dis-container] {
+    animation: squashHorizontalSides 0.3s ease-in paused;
+  }
+  .grid-item:nth-of-type(6) [data-dis-type] {
+    animation: slideLeft68 0.3s ease-in paused;
+  }
+  @keyframes squashHorizontalSides {
+    0% { width: 135px; transform: translateX(0); }
+    100% { width: 0; transform: translateX(-0px); }
+  }
+  @keyframes slideLeft68 {
+    100% { transform: translateX(-67.5px); }
+  }
+
+
+.axisY {
+  font-size: 15px;
+}
+.axisX {
+  font-size: 15px;
+}
+
+span.ani {
+    display: inline; /* the default for span */
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    color: white;
+}

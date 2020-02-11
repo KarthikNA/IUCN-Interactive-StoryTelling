@@ -1,0 +1,343 @@
+category,sciname,commonname,year1,year2,size
+Mammals,Bos sauveli,Kouprey,2008,1969/70,10
+Mammals,Crocidura trichura,Christmas Island Shrew,2008,1985,10
+Mammals,Cryptochloris wintoni,De Winton's Golden Mole,2008,1937,10
+Mammals,Dendrolagus mayri,Wondiwoi Tree-kangaroo,2008,1928,10
+Mammals,Dipodomys gravipes,San Quintin Kangaroo Rat,2008,1986,10
+Mammals,Gyldenstolpia fronto,Fossorial Giant Rat,2018,1896,10
+Mammals,Lipotes vexillifer,Yangtze River Dolphin,2008,2002,10
+Mammals,Melanomys zunigae,Zuniga's Dark Rice Rat,2008,1949,10
+Mammals,Mesocapromys nanus,Dwarf Hutia,2008,1937,10
+Mammals,Mesocapromys sanfelipensis,Little Earth Hutia,2008,1978,10
+Mammals,Monodelphis unistriata,Single-striped Opossum,2011,1899,10
+Mammals,Murina tenebrosa,Gloomy Tube-nosed Bat,2008,1962,10
+Mammals,Mystacina robusta,New Zealand Greater Short-tailed Bat,2008,1967,10
+Mammals,Nilopegamys plumbeus,Ethiopian Amphibious Rat,2008,1920s,10
+Mammals,Nyctophilus howensis,Lord Howe Long-eared Bat,2008,1972,10
+Mammals,Peromyscus guardia,Angel Island Mouse,2008,1991,10
+Mammals,Peromyscus mekisturus,Puebla Deer Mouse,2008,before 1948,10
+Mammals,Phalanger matanim,Telefomin Cuscus,2008,1997,10
+Mammals,Pharotis imogene,Thomas's Big-eared Bat,2008,1890,10
+Mammals,Piliocolobus bouvieri,Bouvier’s Red Colobus,2008,1970s,10
+Mammals,Piliocolobus waldroni,Miss Waldron’s Red Colobus,2019,2008,10
+Mammals,Pteralopex pulchra,Montane Monkey-faced Bat,2008,1991,10
+Mammals,Pteropus aruensis,Aru Flying Fox,2008,1992,10
+Mammals,Pteropus tuberculatus,Vanikoro Flying Fox,2008,before 1930,10
+Mammals,Tylomys bullaris,Chiapan Climbing Rat,2019,1970,10
+Mammals,Tylomys tumbalensis,Tumbalá Climbing Rat,2019,1970,10
+Mammals,Uromys emmae,Emma's Giant Rat,2008,1946,10
+Mammals,Uromys imperator,Emperor Rat,2008,"1886-1888 (confirmed);
+1960s (possible)",10
+Mammals,Uromys porculus,Guadalcanal Rat,2008,1886-1888,10
+Mammals,Viverra civettina,Malabar Civet,2015,,10
+Birds,Acrocephalus longirostris,Moorea Reed-warbler,2016,1987,10
+Birds,Callaeas cinereus,South Island Kokako,2016,2007,10
+Birds,Campephilus imperialis,Imperial Woodpecker,2013,1956,10
+Birds,Cichlocolaptes mazarbarnetti,Cryptic Treehunter,2016,2007,10
+Birds,Cyanopsitta spixii,Spix's Macaw,2013,2000,10
+Birds,Eriocnemis godini,Turquoise-throated Puffleg,2012,1850,10
+Birds,Eurostopodus exul,New Caledonian Nightjar,2014,1939,10
+Birds,Hemignathus affinis,Maui Nukupuu,2016,1896,10
+Birds,Hemignathus hanapepe,Kauai Nukupuu,2016,1899,10
+Birds,Hydrobates macrodactylus,Guadalupe Storm-petrel,2012,1912,10
+Birds,Loxops ochraceus,Maui Akepa,2016,1988,10
+Birds,Melamprosops phaeosoma,Poo-uli,2012,2004,10
+Birds,Myadestes lanaiensis,Olomao,2013,1994,10
+Birds,Numenius borealis,Eskimo Curlew,2012,1963,10
+Birds,Paroreomyza maculata,Oahu Alauahio,2012,1985,10
+Birds,Pomarea mira,Ua Pou Monarch,2013,2010,10
+Birds,Psittirostra psittacea,Ou,2012,1989,10
+Birds,Pterodroma caribbaea,Jamaican Petrel,2013,1879,10
+Birds,Pyrrhura subandina,Sinu Parakeet,2014,1949,10
+Birds,Siphonorhis americana,Jamaican Poorwill,2012,1860,10
+Birds,Turnix novaecaledoniae,New Caledonian Buttonquail,2014,1911,10
+Birds,Vermivora bachmanii,Bachman's Warbler,2013,1988,10
+Reptiles,Alinea lanceolata,Barbados Skink,2015,1889,10
+Reptiles,Anilios insperatus,Fassifern Blind Snake,2017,1992,10
+Reptiles,Anolis roosevelti,Culebra Giant Anole,2009,1932,10
+Reptiles,Borikenophis sanctaecrucis,Saint Croix Racer,2015,19th or early 20th Century,10
+Reptiles,Calamaria prakkei,Prakke's Reed Snake,2011,,10
+Reptiles,Capitellum mariagalantae,Marie-Galante Skink,2015,1830s,10
+Reptiles,Capitellum metallicum,Lesser Martinique Skink,2015,before 1879,10
+Reptiles,Capitellum parvicruzae,Lesser Saint Croix Skink,2013,,10
+Reptiles,Celestus anelpistus,Giant Hispaniolan Galliwasp,2004,1977,10
+Reptiles,Celestus occiduus,Jamaica Giant Galliwasp,2017,1851,10
+Reptiles,Chelonoidis phantasticus,Fernandina Giant Tortoise,2015,1964,10
+Reptiles,Cynisca gansi,,2012,,10
+Reptiles,Erythrolamprus cursor,Lacépède's Ground Snake,2015,1968,10
+Reptiles,Gallotia auaritae,La Palma Giant Lizard,2008,,10
+Reptiles,Holcosus orcesi,Peters' Ameiva,2017,1959,10
+Reptiles,Hypsirhynchus ater,Jamaican Racer,2015,1900,10
+Reptiles,Hypsirhynchus melanichnus,La Vega Racer,2015,1910,10
+Reptiles,Leiocephalus endomychus,Central Haitian Curlytail,2015,1976,10
+Reptiles,Leiocephalus pratensis,Atalaye Curlytail Lizard,2015,1966,10
+Reptiles,Leiocephalus rhutidira,Lapierre Curlytail Lizard,2015,1978,10
+Reptiles,Lepidoblepharis miyatai,,2013,1964,10
+Reptiles,Liolaemus cranwelli,Cranwell's Tree Iguana,2014,1973,10
+Reptiles,Mabuya hispaniolae,Hispaniolan Two-lined Skink,2015,1937,10
+Reptiles,Mabuya mabouya,Greater Martinique Skink,2015,1889,10
+Reptiles,Mabuya montserratae,Montserrat Skink,2015,1984,10
+Reptiles,Mitophis leptepileptus,Haitian Border Threadsnake,2015,1984,10
+Reptiles,Omoadiphas cannula,,2012,1989,10
+Reptiles,Pseudoxyrhopus ankafinaensis,,2011,1881,10
+Reptiles,Rhampholeon chapmanorum,Chapman's Pygmy Chameleon,2014,1998,10
+Reptiles,Sphaerodactylus elasmorhynchus,Marche Leon Least Gecko,2015,1966,10
+Reptiles,Sphaerodactylus lazelli,Cap-Haitien Least Gecko,2015,1960,10
+Reptiles,Sphaerodactylus williamsi,Haitian Striped Sphaero,2015,before 1983,10
+Reptiles,Spondylurus anegadae,Anegada Skink,2015,1966,10
+Reptiles,Spondylurus haitiae,Hispaniolan Four-lined Skink,2015,1857-1858,10
+Reptiles,Spondylurus lineolatus,Hispaniolan Ten-lined Skink,2015,1985,10
+Reptiles,Spondylurus magnacruzae,Greater Saint Croix Skink,2013,2000,10
+Reptiles,Spondylurus martinae,Saint Martin Skink,2015,1965,10
+Reptiles,Spondylurus monitae,Monito Skink,2013,1993,10
+Reptiles,Spondylurus spilonotus,Greater Virgin Islands Skink,2013,1877,10
+Reptiles,Stenocercus haenschi,Haensch's Whorltail Iguana,2009,1901,10
+Reptiles,Trimetopon viquezi,Viquez's Tropical Ground Snake,2012,1927,10
+Amphibians,Altiphrynoides osgoodi,Osgood's Ethiopian Toad,2012,2003,10
+Amphibians,Ameerega andina,La Planada Poison Frog,2019,1990s,10
+Amphibians,Andinobates abditus,Collins' Poison Frog,2004,,10
+Amphibians,Andinobates viridis,Green Poison Frog,2016,2005,10
+Amphibians,Aquiloeurycea praecellens,Admirable False Brook Salamander,2009,24-Dec-40,10
+Amphibians,Aromobates nocturnus,Skunk Frog,2006,1991,10
+Amphibians,Arthroleptides dutoiti,Du Toit's Torrent Frog,2004,1962,10
+Amphibians,Arthroleptis kutogundua,Overlooked Squeaker Frog,2012,1930,10
+Amphibians,Arthroleptis troglodytes,Cave Squeaker,2014,1962,10
+Amphibians,Atelopus angelito,,2019,2000,10
+Amphibians,Atelopus ardila,,2012,1989,10
+Amphibians,Atelopus carbonerensis,La Carbonera Stubfoot Toad,2004,1998,10
+Amphibians,Atelopus chiriquiensis,Chiriqui Harlequin Frog,2008,late 1990s,10
+Amphibians,Atelopus chirripoensis,,2012,1980,10
+Amphibians,Atelopus chocoensis,,2016,1998,10
+Amphibians,Atelopus chrysocorallus,,2004,1988,10
+Amphibians,Atelopus ebenoides,Huila Stubfoot Toad,2017,2005,10
+Amphibians,Atelopus erythropus,Carabaya Stubfoot Toad,2018,2004,10
+Amphibians,Atelopus eusebianus,Malvasa Stubfoot Toad,2016,2005,10
+Amphibians,Atelopus eusebiodiazi,,2010,1997,10
+Amphibians,Atelopus farci,Forest Stubfoot Toad,2016,2003,10
+Amphibians,Atelopus gigas,,2016,1970,10
+Amphibians,Atelopus guanujo,Puca Sapo,2004,1988,10
+Amphibians,Atelopus halihelos,Morona-Santiago Stubfoot Toad,2006,1984,10
+Amphibians,Atelopus lynchi,,2004,1984,10
+Amphibians,Atelopus mindoensis,Mindo Stubfoot Toad,2004,1989,10
+Amphibians,Atelopus minutulus,Colombian Stubfoot Toad,2016,1985,10
+Amphibians,Atelopus monohernandezii,,2016,1982,10
+Amphibians,Atelopus nicefori,Niceforo's Stubfoot Toad,2016,1988,10
+Amphibians,Atelopus onorei,,2008,1990,10
+Amphibians,Atelopus orcesi,0,2016,1988,10
+Amphibians,Atelopus oxyrhynchus,Rednose Stubfoot Toad,2004,1994,10
+Amphibians,Atelopus pachydermus,Schmidt's Stubfoot Toad,2008,1995,10
+Amphibians,Atelopus pastuso,,2012,1993,10
+Amphibians,Atelopus pedimarmoratus,San Isidro Stubfoot Toad,2016,1963,10
+Amphibians,Atelopus peruensis,Peru Stubfoot Toad,2006,,10
+Amphibians,Atelopus petersi,,2008,1996,10
+Amphibians,Atelopus petriruizi,Painted Stubfoot Toad,2016,1998,10
+Amphibians,Atelopus pictiventris,Painted Stubfoot Toad,2016,1996,10
+Amphibians,Atelopus pinangoi,Pinango Stubfoot Toad,2004,1997,10
+Amphibians,Atelopus planispina,Flat-spined Atelopus,2004,1985,10
+Amphibians,Atelopus podocarpus,,2012,1994,10
+Amphibians,Atelopus quimbaya,,2016,1997,10
+Amphibians,Atelopus sernai,,2004,2000,10
+Amphibians,Atelopus simulatus,,2014,2003,10
+Amphibians,Atelopus sonsonensis,,2016,1996,10
+Amphibians,Atelopus sorianoi,Cloud Forest Stubfoot Toad,2004,1990,10
+Amphibians,Atelopus subornatus,Bogota Stubfoot Toad,2016,1993,10
+Amphibians,Bokermannohyla izecksohni,,2004,,10
+Amphibians,Bradytriton silus,Finca Chiblac Salamander,2008,1976,10
+Amphibians,Bromeliohyla dendroscarta,Greater Bromeliad Treefrog,2004,1974,10
+Amphibians,Centrolene geckoideum,Pacific Giant Glass Frog,2019,1997,10
+Amphibians,Charadrahyla altipotens,Yellow-bellied Voiceless Treefrog,2004,1960s,10
+Amphibians,Chiropterotriton magnipes,Bigfoot Splayfoot Salamander,2008,,10
+Amphibians,Colostethus jacobuspetersi,,2004,1960s,10
+Amphibians,Conraua derooi,Togo Slippery Frog,2004,,10
+Amphibians,Craugastor anciano,Corquin Robber Frog,2004,,10
+Amphibians,Craugastor angelicus,Angel Robber Frog,2008,1994,10
+Amphibians,Craugastor coffeus,,2004,,10
+Amphibians,Craugastor cruzi,Cruz Robber Frog,2004,1988,10
+Amphibians,Craugastor emleni,,2004,1985,10
+Amphibians,Craugastor fecundus,,2004,,10
+Amphibians,Craugastor gulosus,,2013,1983,10
+Amphibians,Craugastor obesus,,2013,1984,10
+Amphibians,Craugastor olanchano,,2004,,10
+Amphibians,Craugastor omoaensis,,2004,,10
+Amphibians,Craugastor polymniae,Sierra Juarez Robber Frog,2004,1983,10
+Amphibians,Craugastor stadelmani,,2004,1993,10
+Amphibians,Craugastor trachydermus,,2004,,10
+Amphibians,Ecnomiohyla echinata,Oaxacan Fringe-limbed Treefrog,2004,1962,10
+Amphibians,Ecnomiohyla rabborum,Rabb’s Fringe-limbed Treefrog,2019,2008,10
+Amphibians,Eleutherodactylus eneidae,Villalba Robber Frog,2008,1990,10
+Amphibians,Eleutherodactylus glanduliferoides,La Visite Robber Frog,2008,1985,10
+Amphibians,Eleutherodactylus karlschmidti,Karl's Robber Frog,2008,1976 or 1988,10
+Amphibians,Eleutherodactylus orcutti,Arntully Robber Frog,2008,mid 1980s,10
+Amphibians,Eleutherodactylus schmidti,Schmidt's Robber Frog,2008,mid 1980s,10
+Amphibians,Eleutherodactylus semipalmatus,Foothill Robber Frog,2008,1985,10
+Amphibians,Gastrotheca angustifrons,Pacific Marsupial Frog,2019,1990s,10
+Amphibians,Gastrotheca antomia,,2016,1997,10
+Amphibians,Gastrotheca lauzuricae,La Siberia Marsupial Frog,2004,1989,10
+Amphibians,Holoaden bradei,Itatiaia Highland Frog,2004,1976,10
+Amphibians,Hyloscirtus chlorosteus,Parjacti Treefrog,2004,1970s,10
+Amphibians,Hyloxalus abditaurantius,Bello Rocket Frog,2019,1990s,10
+Amphibians,Hyloxalus edwardsi,Edwards' Rocket Frog,2004,1996,10
+Amphibians,Hyloxalus ruizi,Ruiz's Rocket Frog,2004,1979,10
+Amphibians,Hypsiboas cymbalum,,2004,,10
+Amphibians,Incilius fastidiosus,Pico Blanco Toad,2008,,10
+Amphibians,Isthmohyla debilis,Isla Bonita Treefrog,2008,1998,10
+Amphibians,Isthmura naucampatepetl,Cofre de Perote Salamander,2008,24-Oct-81,10
+Amphibians,Lithobates omiltemanus,Guerreran Leopard Frog,2004,1978,10
+Amphibians,Lithobates pueblae,Puebla Frog,2004,,10
+Amphibians,Lithobates tlaloci,Tlaloc's Leopard Frog,2004,1985,10
+Amphibians,Litoria castanea,Yellow-spotted Tree Frog,2004,1980,10
+Amphibians,Litoria piperata,Peppered Tree Frog,2004,1973,10
+Amphibians,Mannophryne neblina,Sapito Acollarado De Rancho Grande,2004,,10
+Amphibians,Melanophryniscus peritus,,2013,1953,10
+Amphibians,Nannophryne cophotis,Paramo Toad,2018,2005,10
+Amphibians,Nectophrynoides poyntoni,Poynton's Forest Toad,2014,2003,10
+Amphibians,Nymphargus truebae,Trueb's Cochran Frog,2017,2005,10
+Amphibians,Oedipina paucidentata,El Empalme Worm Salamander,2008,1952,10
+Amphibians,Oreobates zongoensis,,2004,1996,10
+Amphibians,Parhoplophryne usambarica,Amani Forest Frog,2012,1920s,10
+Amphibians,Peltophryne fluviatica,Hispaniolan Crestless Toad,2004,,10
+Amphibians,Philautus jacobsoni,,2004,,10
+Amphibians,Phrynobatrachus manengoubensis,Manengouba River Frog,2019,Before 2009,10
+Amphibians,Phrynobatrachus njiomock,Lake Oku Puddle Frog,2019,2010,10
+Amphibians,Plectrohyla ephemera,Cerro Las Flores Spikethumb Frog,2006,,10
+Amphibians,Pristimantis albericoi,,2019,1986,10
+Amphibians,Pristimantis bernali,Argelia Robber Frog,2004,1981,10
+Amphibians,Pristimantis molybrignus,Uribe Robber Frog,2016,1999,10
+Amphibians,Pristimantis phragmipleuron,Sugar Robber Frog,2016,1983,10
+Amphibians,Proceratophrys moratoi,Botucatu Escuerzo,2004,1990,10
+Amphibians,Prostherapis dunni,Sapito Ninera De Dunn,2006,,10
+Amphibians,Pseudoeurycea ahuitzotl,Imperial Salamander,2008,1960s,10
+Amphibians,Pseudoeurycea anitae,Anita's False Brook Salamander,2008,,10
+Amphibians,Pseudoeurycea aquatica,Aquatic Salamander,2008,1978,10
+Amphibians,Pseudoeurycea tlahcuiloh,Green-flecked Salamander,2008,1960s,10
+Amphibians,Pseudoeurycea unguidentis,Claw-toothed Salamander,2009,1976,10
+Amphibians,Rhinella rostrata,Mesopotamia Beaked Toad,2004,1914,10
+Amphibians,Rhinoderma rufum,Northern Darwin's frog,2008,1981,10
+Amphibians,Sarcohyla calvicollina,Cerro Pelón Treefrog,2019,1984,10
+Amphibians,Sarcohyla celata,Oaxaca Treefrog,2019,1984,10
+Amphibians,Sarcohyla cembra,Southern Sierra Madre Treefrog,2019,1993,10
+Amphibians,Sarcohyla cyanomma,Blue-eyed Aquatic Treefrog,2019,1980,10
+Amphibians,Sarcohyla hazelae,Hazel's Treefrog,2019,1984,10
+Amphibians,Sarcohyla siopela,Voiceless Treefrog,2019,,10
+Amphibians,Sarcohyla thorectes,Adler's Mottled Treefrog,2019,1984,10
+Amphibians,Scutiger maculatus,Piebald Alpine Toad,2004,1970s,10
+Amphibians,Strabomantis cadenai,Nutibara Robber Frog,2017,1982,10
+Amphibians,Strabomantis necerus,Mindo Robber Frog,2019,1995,10
+Amphibians,Telmatobius ceiorum,,2019,1984,10
+Amphibians,Telmatobius cirrhacelis,Loja Water Frog,2008,1981,10
+Amphibians,Telmatobius laticeps,,2019,1993,10
+Amphibians,Telmatobius mendelsoni,,2017,2007,10
+Amphibians,Telmatobius niger,Black Water Frog,2008,1994,10
+Amphibians,Telmatobius pefauri,Arico Water Frog,2015,1976,10
+Amphibians,Telmatobius vellardi,Vellard's Water Frog,2008,1987,10
+Amphibians,Thorius infernalis,Atoyac Minute Salamander,2008,1980s,10
+Amphibians,Thorius munificus,McDiarmid Thorius,2008,1997,10
+Fish,Acanthobrama centisquama,Long-spine Bream,2013,early 20th century,10
+Fish,Acanthobrama tricolor,Damascus Bream,2013,1980s,10
+Fish,Acipenser dabryanus,Yangtze Sturgeon,2009,,10
+Fish,Acipenser naccarii,Adriatic Sturgeon,2009,,10
+Fish,Adrianichthys kruyti,Duck-billed Buntingi,2019,1983,10
+Fish,Adrianichthys roseni,,2019,1978,10
+Fish,Alosa vistonica,,2006,,10
+Fish,Anabarilius qiluensis,,2011,early 1980s,10
+Fish,Anabarilius yangzonensis,,2011,,10
+Fish,Aphyolebias claudiae,,2014,2003,10
+Fish,Azurina eupalama,Galapagos Damsel,2008,1980s,10
+Fish,Balantiocheilos ambusticauda,Siamese Bala-shak,2011,1974,10
+Fish,Betta fusca,,2019,1950s,10
+Fish,Caecocypris basimi,Haditha Cavefish,2013,1983,10
+Fish,Carcharhinus hemiodon,Pondicherry Shark,2003,1979,10
+Fish,Chapalichthys pardalis,Polka-dot Splitfin,2019,2010,10
+Fish,Chirostoma aculeatum,Scowling Silverside,2019,1993,10
+Fish,Chirostoma bartoni,Alberca Silverside,2019,1986,10
+Fish,Chirostoma charari,Least Silverside,2019,1953,10
+Fish,Cobitis kellei,Diyarbakir Spined Loach,2013,1974,10
+Fish,Copadichromis nkatae,,2018,1960,10
+Fish,Coregonus hoferi,,2008,1980s,10
+Fish,Coregonus reighardi,Shortnose Cisco,1996,1985,10
+Fish,Corematodus shiranus,,2018,1997,10
+Fish,Cyprinodon latifasciatus,Parras Pupfish,2019,2012,10
+Fish,Cyprinus barbatus,,2011,1982,10
+Fish,Cyprinus ilishaestomus,,2009,late 1970s,10
+Fish,Cyprinus micristius,Dianchi Carp,2008,1980s,10
+Fish,Cyprinus qionghaiensis,,2007,,10
+Fish,Cyprinus yunnanensis,,2009,late 1970s,10
+Fish,Fundulopanchax powelli,,2006,,10
+Fish,Gobiesox juniperoserrai,Peninsular Clingfish,2019,1996,10
+Fish,Haplochromis aelocephalus,,2010,1985,10
+Fish,Haplochromis antleter,,2010,1982,10
+Fish,Haplochromis apogonoides,,2010,1983,10
+Fish,Haplochromis argenteus,,2010,1983,10
+Fish,Haplochromis barbarae,,2010,1985,10
+Fish,Haplochromis bareli,,2010,1985,10
+Fish,Haplochromis brownae,,2010,1980,10
+Fish,Haplochromis cassius,,2010,1986,10
+Fish,Haplochromis cinctus,,2010,1982,10
+Fish,Haplochromis cnester,,2010,1983,10
+Fish,Haplochromis coprologus,,2010,1982,10
+Fish,Haplochromis crassilabris,,2010,1980,10
+Fish,Haplochromis crocopeplus,,2010,1985,10
+Fish,Haplochromis dentex,,2010,1987,10
+Fish,Haplochromis dichrourus,,2010,1986,10
+Fish,Haplochromis flavipinnis,,2010,1984,10
+Fish,Haplochromis granti,,2010,1986,10
+Fish,Haplochromis guiarti,,2010,1985,10
+Fish,Haplochromis heusinkveldi,,2010,1985,10
+Fish,Haplochromis hiatus,,2010,1980,10
+Fish,Haplochromis iris,,2010,1980,10
+Fish,Haplochromis ishmaeli,,2010,1991,10
+Fish,Haplochromis katunzii,,2010,1982,10
+Fish,Haplochromis longirostris,,2010,1985,10
+Fish,Haplochromis macrognathus,,2010,1985,10
+Fish,Haplochromis martini,,2010,1985,10
+Fish,Haplochromis michaeli,,2010,1985,10
+Fish,Haplochromis microdon,,2010,1985,10
+Fish,Haplochromis mylergates,,2010,1983,10
+Fish,Haplochromis nanoserranus,,2010,1986,10
+Fish,Haplochromis pancitrinus,,2010,1986,10
+Fish,Haplochromis parvidens,,2010,1995,10
+Fish,Haplochromis percoides,,2010,1986,10
+Fish,Haplochromis perrieri,,2010,1986,10
+Fish,Haplochromis plutonius,,2010,1980,10
+Fish,Haplochromis ptistes,,2010,1984,10
+Fish,Haplochromis pyrrhopteryx,,2010,1983,10
+Fish,Haplochromis sphex,,2010,1986,10
+Fish,Haplochromis sulphureus,,2010,1985,10
+Fish,Haplochromis teegelaari,,2010,1986,10
+Fish,Haplochromis theliodon,,2010,1993,10
+Fish,Haplochromis ushindi,,2010,1980,10
+Fish,Haplochromis victorianus,,2010,1985,10
+Fish,Haplochromis vonlinnei,,2010,1980,10
+Fish,Haplochromis xenostoma,,2010,1983,10
+Fish,Hemibagrus punctatus,Nilgiri Mystus,2010,late 1990s,10
+Fish,Hemileiocassis panjang,,2019,1920-1929,10
+Fish,Hyalobagrus ornatus,,2019,1904,10
+Fish,Hypselobarbus pulchellus,,2011,1870,10
+Fish,Knipowitschia cameliae,,2008,1994,10
+Fish,Lepidocephalus pahangensis,,2019,1933,10
+Fish,Mugilogobius amadi,Poso Bungu,2019,1978,10
+Fish,Neolissochilus bovanicus,Bovany Barb,2010,1998,10
+Fish,Notropis marhabatiensis,,2019,2002,10
+Fish,Nyassachromis breviceps,,2018,1997,10
+Fish,Oreochromis lidole,,2018,1992,10
+Fish,Oryzias timorensis,,2019,1911,10
+Fish,Pantanodon sp. nov. 'Manombo',,2004,1997,10
+Fish,Parapsilorhynchus prateri,Deolali Minnow,2010,1937,10
+Fish,Paraschistura chrysicristinae,Diyarbak?r Loach,2014,1970s,10
+Fish,Poropuntius chonglingchungi,,2011,1980s,10
+Fish,Psephurus gladius,Chinese Paddlefish,2009,2003,10
+Fish,Pseudophoxinus sojuchbulagi,Akstafa Spring Roach,2014,1948,10
+Fish,Pseudophoxinus syriacus,Barada Spring Minnow,2013,2008,10
+Fish,Pseudoscaphirhynchus fedtschenkoi,Syr-darya Shovelnose Sturgeon,2009,1960s,10
+Fish,Ptychochromoides betsileanus,Trondo Mainty,2016,1994,10
+Fish,Puntius deccanensis,Deccan Barb,2010,,10
+Fish,Rhizosomichthys totae,Pez Graso,2014,1958,10
+Fish,Schistura nasifilis,,2010,1936,10
+Fish,Schistura tenura,,2011,1998,10
+Fish,Sciaena callaensis,,2009,1966,10
+Fish,Stiphodon discotorquatus,,2011,1985,10
+Fish,Systomus compressiformis,,2011,1994,10
+Fish,Tetrapleurodon spadiceus,Mexican Lamprey,2019,1987,10
+Fish,Torpedo suessii,Red Sea Torpedo,2017,1898,10
+Fish,Urolophus javanicus,Java Stingaree,2006,mid 19th century,10
+Fish,Xenoclarias eupogon,Lake Victoria Deepwater Catfish,2006,1987,10

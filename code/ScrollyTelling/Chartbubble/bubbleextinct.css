@@ -1,0 +1,33 @@
+#extinct-bubble-chart text {
+    font: 10px sans-serif;
+    color: white;
+  }
+#extinct-bubble-chart circle {
+      stroke: #565352;
+      stroke-width: 0;
+  }
+.d3-tip-extinct {
+        position: absolute;
+        line-height: 1;
+        background: rgba(45, 45, 45, 0.90);
+        color: white;
+        padding: 11px;
+        border-radius: 19px;
+    }
+
+
+
+  div.extincttooltip {
+      position: absolute;	
+      text-align: center;	
+      margin-left:500px;
+      padding: 11px;	
+      font: 15px sans-serif;
+      line-height: 1;	
+      background: rgba(45, 45, 45, 0.90);
+      color: white;		
+      border-radius: 19px;
+      z-index: 999;
+     /*  pointer-events: none;	This line needs to be removed */
+      
+    }

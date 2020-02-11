@@ -1,0 +1,17 @@
+/*
+ * File: style.css
+ * Project: code
+ * File Created: November 2019
+ * Author: Shalini Chaudhuri (you@you.you)
+ */
+#chart1 path { 
+	stroke-width: 2;
+	fill: none;
+}
+
+#chart1 .line-plot path,
+#chart1 .line-plotline {
+	fill: none;
+	stroke-width: 1;
+	shape-rendering: crispEdges;
+}

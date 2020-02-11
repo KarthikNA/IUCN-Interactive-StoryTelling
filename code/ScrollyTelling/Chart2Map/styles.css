@@ -1,0 +1,52 @@
+#map .countries {
+        fill: black;
+        stroke: black;
+        stroke-linejoin: round;
+    }
+#map .legendThreshold {
+font-size: 12px;
+font-family: sans-serif;
+}
+#map .caption {
+fill: #000;
+text-anchor: start;
+font-weight: bold;
+}
+/*#map .svg {
+display: inline-block;
+width:80%;
+}*/
+#map .dropdown {
+margin-bottom: 1em;    
+margin-left: 60px;
+}
+#main {
+margin: 2;
+}
+#map .line {
+fill: #5f00;
+}
+#map .bar {
+    fill: red;
+}
+
+#map .axis {
+    font-size: 13px;
+}
+
+#map .axis path,
+#map .axis line {
+    fill: none;
+    display: none;
+}
+
+#map .label {
+    font-size: 13px;
+}
+#map .d3-tip {
+    line-height: 1;
+    background: rgba(45, 45, 45, 0#map .75);
+    color: white;
+    padding: 11px;
+    border-radius: 19px;
+}

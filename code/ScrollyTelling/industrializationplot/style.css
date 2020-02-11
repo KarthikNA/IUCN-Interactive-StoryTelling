@@ -1,0 +1,30 @@
+/*
+ * File: style.css
+ * Project: code
+ * File Created: November 2019
+ * Author: Shalini Chaudhuri (you@you.you)
+ */
+#industrialization path { 
+	stroke-width: 2;
+	fill: none;
+}
+
+#industrialization .line-plot path,
+#industrialization .line-plotline {
+	fill: none;
+	stroke-width: 1;
+	shape-rendering: crispEdges;
+}
+
+
+#industrialization .gtooltip{
+    font-size: 18px;
+    font-weight: bold;
+    visibility: hidden;
+    text-anchor: middle;
+    pointer-events: none;
+}
+
+#industrialization .chart:hover .gtooltip{
+    visibility: visible;
+} 

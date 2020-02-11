@@ -1,0 +1,51 @@
+#bubble-chart html, body {
+  margin: 10px;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+#bubble-chart #controls {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+#bubble-chart input[type="radio"] {
+  margin-top: -1px;
+  vertical-align: middle;
+}
+
+#bubble-chart span:nth-child(2) {
+  margin-left: 20px;
+}
+
+/*#bubble-chart #country-info {*/
+/*  color: #666;*/
+/*  font-size: 3em;*/
+/*  position: absolute;*/
+/*  top: 60px;*/
+/*  left: 40px;*/
+/*}*/
+
+#bubble-chart #country-info {
+  color: #2e2e2e;
+  font-size: 1.7em;
+  position: absolute;
+  top: 200px;
+  left: 15px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+/* #bubble-chart svg {
+  border: 1px solid #ddd;
+} */
+
+#bubble-chart circle {
+  stroke: white;
+  stroke-width: 1.5;
+}
+
+#bubble-chart .continent-key-element text {
+  fill: white;
+}
+
+

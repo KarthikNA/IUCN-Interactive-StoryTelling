@@ -1,0 +1,30 @@
+label.btn.btn-secondary,
+label.btn.btn-secondary:focus,
+label.btn.btn-secondary:active,
+label.btn.btn-secondary.active,
+label.btn.btn-secondary.active:focus,
+label.btn.btn-secondary.active:active {
+    box-shadow: none !important;
+}
+
+body {
+    font-family: "Times New Roman";
+    margin: 0;
+}
+
+#main {
+    margin: 20px;
+}
+
+.d3-tip {
+    line-height: 1;
+    padding: 6px;
+    background: rgba(238, 240, 27, 0.95);
+    color: #18996b;
+    border-radius: 8px;
+    font-size: 15px;
+}
+
+ul.dropdown-menu > li {
+    max-width: 244px;
+}

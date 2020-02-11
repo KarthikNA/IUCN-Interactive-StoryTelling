@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<meta charset="utf-8">
+<link rel ="stylesheet" href="./styles.css">
+</head>
+<body>
+<div id = "map" style = "display:inline">
+    <div class ="dropdown">
+        <select>
+            <option value="mammals">Mammals</option>
+            <option value="reptiles">Reptiles</option>
+            <option value="amphibians">Amphibians</option>
+            <option value="birds">Birds</option>
+        </select>
+    </div>
+    <div class ="svg">
+        <svg width="1100" height="800"></svg>
+    </div>
+</div>
+</body>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" />
+        <script src="https://d3js.org/d3.v4.min.js"></script>
+        <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+        <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
+        <script type="text/javascript" src="./node_modules/d3-colorbar/build/d3-colorbar.js"></script>
+        <script src = "https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.9.1/d3-tip.min.js"></script>
+        <script src ="./mapmain.js"></script>
+</html>

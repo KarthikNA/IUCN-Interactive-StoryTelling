@@ -1,0 +1,42 @@
+<!--
+File: index.html
+Project: code
+File Created: October 2019
+Author: Shalini Chaudhuri (you@you.you)
+-->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Decline of Species over time</title>
+        <link rel="stylesheet" href="./style.css">
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <link href="https://cdn.jsdelivr.net/npm/select2@4.0.12/dist/css/select2.min.css" rel="stylesheet" />
+        <script src="https://cdn.jsdelivr.net/npm/select2@4.0.12/dist/js/select2.min.js"></script>
+    </head>
+    <body>
+        <div id="industrialization">
+            <select id="chartTypeParameter" style="display: inherit; margin-bottom: 5px;">
+                <option value="line" defaault>Line Chart</option>
+                <option value="bubble">Bubble Plot</option>
+            </select>
+            <select id="industrialParameter" style="display: inherit; margin-bottom: 5px;">
+            </select>
+            <select id="countryParameter" style="display: inherit; margin-bottom: 5px;"  multiple="multiple">
+            </select>
+
+            <svg width="680" height="600" style="border: 1px solid #777;">
+            </svg>
+            <div class="row align-items-center">
+                    <div class="col-sm-2"><p id="value-time"></p></div>
+                    <div class="col-sm"><div id="slider-time"></div></div>
+                </div>
+        </div>
+    </body>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://unpkg.com/d3-simple-slider"></script>
+
+    <script src="./industrializationplot.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.js"></script>
+</html>
